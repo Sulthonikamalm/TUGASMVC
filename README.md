@@ -1,14 +1,10 @@
-Berikut versi **plain text (.txt)** siap copy tanpa formatting Markdown:
 
----
 
 MVC Product App — Tugas Praktik PBO (Pemrograman Berorientasi Objek)
 
 Repositori ini merupakan hasil pengerjaan Tugas Praktik Penerapan Pola Arsitektur MVC (Model–View–Controller) pada mata kuliah Pemrograman Berorientasi Objek (PBO).
 
 Aplikasi dibangun menggunakan Java Servlet (Controller), JSP (View), dan POJO (Model) dengan penyimpanan in-memory (tanpa database fisik). Fokus utama proyek ini adalah penerapan konsep Object-Oriented Programming, Enkapsulasi, dan Separation of Concerns, serta penanganan request HTTP & validasi server-side secara ketat.
-
----
 
 ## TEKNOLOGI YANG DIGUNAKAN
 
@@ -21,8 +17,6 @@ Frontend           : HTML + CSS (Custom "Clean Dashboard")
 
 Catatan penting:
 Karena menggunakan Tomcat 10, seluruh library servlet berbasis javax.servlet sudah dimigrasi ke jakarta.servlet. Menjalankan project ini di Tomcat 9 ke bawah akan menyebabkan error.
-
----
 
 ## STRUKTUR PROYEK & IMPLEMENTASI MVC
 
@@ -41,8 +35,6 @@ views (JSP)/
 * home.jsp             → Dashboard dengan branding TUGASMVCSULTHONIKA
 * list_product.jsp     → Tabel produk + fitur pencarian
 * form_product.jsp     → Form input/edit + alert error + retain input value
-
----
 
 ## PEMENUHAN POIN TUGAS
 
@@ -66,17 +58,13 @@ views (JSP)/
    * Input Kategori diubah menjadi dropdown agar konsisten (bukan text bebas)
    * Semua JSP menggunakan UTF-8 untuk mencegah karakter error
    * CSS custom tema Merah-Abu untuk tampilan dashboard modern
-
----
-
+     
 ## PERSYARATAN INSTALASI
 
 • JDK 17 atau 22 wajib terpasang
 • Apache Tomcat 10.1 wajib (karena Jakarta Servlet)
 • Apache NetBeans 22
 • Tomcat harus ter-registrasi di NetBeans dengan username & password manager-gui
-
----
 
 ## CARA MENJALANKAN
 
@@ -89,10 +77,8 @@ views (JSP)/
 7. Aplikasi akan terbuka di browser:
    [http://localhost:8080/MVCProductApp](http://localhost:8080/MVCProductApp)
 
----
 
 ## INFORMASI
-
 Project ini dibuat untuk memenuhi tugas Mata Kuliah Pemrograman Berorientasi Objek (PBO).
+Created by: Sulthonika Mahfudz Al Mujahidin
 
-Created by: Sulthonika
