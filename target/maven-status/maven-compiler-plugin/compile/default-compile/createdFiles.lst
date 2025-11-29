@@ -1,0 +1,6 @@
+models\ProductRepository.class
+models\Product.class
+com\mycompany\mvcproductapp\JakartaRestConfiguration.class
+controllers\HomeServlet.class
+controllers\ProductServlet.class
+com\mycompany\mvcproductapp\resources\JakartaEE10Resource.class
