@@ -1,9 +1,6 @@
-
-
-MVC Product App — Tugas Praktik PBO (Pemrograman Berorientasi Objek)
+### MVC Product App Tugas Praktik PBO (Pemrograman Berorientasi Objek)
 
 Repositori ini merupakan hasil pengerjaan Tugas Praktik Penerapan Pola Arsitektur MVC (Model–View–Controller) pada mata kuliah Pemrograman Berorientasi Objek (PBO).
-
 Aplikasi dibangun menggunakan Java Servlet (Controller), JSP (View), dan POJO (Model) dengan penyimpanan in-memory (tanpa database fisik). Fokus utama proyek ini adalah penerapan konsep Object-Oriented Programming, Enkapsulasi, dan Separation of Concerns, serta penanganan request HTTP & validasi server-side secara ketat.
 
 ## TEKNOLOGI YANG DIGUNAKAN
